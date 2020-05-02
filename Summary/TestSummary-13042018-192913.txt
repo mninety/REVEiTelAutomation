@@ -1,0 +1,18 @@
+**************JSP Travarsal*************
+Module Name: JSP Travarsal
+Total Test Cases: 87
+Total Successful Cases: 63
+Total Failed Cases: 24
+Percentage of Failed Cases: 27 %
+**************Permission API*************
+Module Name: Permission API
+Total Test Cases: 33
+Total Successful Cases: 0
+Total Failed Cases: 33
+Percentage of Failed Cases: 100 %
+**************Permission API*************
+Module Name: Permission API
+Total Test Cases: 33
+Total Successful Cases: 0
+Total Failed Cases: 33
+Percentage of Failed Cases: 100 %

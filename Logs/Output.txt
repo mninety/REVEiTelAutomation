@@ -1,0 +1,1411 @@
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@32057e6
+
+Mysql connection is alive: com.mysql.jdbc.JDBC4Connection@32057e6
+
+MySQL connection checker Module is going to sleep for 180 min at 16052018-162230
+
+Project Delivery Emailer Module is going to start at 16052018-162230
+
+Project Delivery Emailer Module is going to sleep for 5 min at 16052018-162230
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@46c670a6
+
+Mysql connection is alive: com.mysql.jdbc.JDBC4Connection@46c670a6
+
+MySQL connection checker Module is going to sleep for 180 min at 16052018-193426
+
+Query: select projectId,projectName,projectType,projectManager,startDate,pdtDeliveryDate,salesDeliveryDate,phaseClosingDate from sqaMemberControl where pdtDeliveryDate<'2018-05-16 00:00:00'  and projectId in(select distinct(projectId) from sqaAssignTaskMobile where status='Assigned') order by projectId
+
+Query1: select taggedProjectId,androidMembers,iosMembers,webMembers,erpMembers,salesMembers from sqaTaggedMembers where taggedProjectId in(select projectId from sqaMemberControl where pdtDeliveryDate<'2018-05-16 00:00:00'  and projectId in(select distinct(projectId) from sqaAssignTaskMobile where status='Assigned') order by projectId) order by taggedProjectId
+
+Mail has sent successfully for 6
+
+Mail has sent successfully for 6
+
+Mail has sent successfully for 6
+
+Mail has sent successfully for 6
+
+Mail has sent successfully for 6
+
+Mail has sent successfully for 6
+
+Mail has sent successfully for 6
+
+Mail has sent successfully for 6
+
+Mail has sent successfully for 6
+
+Mysql connection is alive: com.mysql.jdbc.JDBC4Connection@46c670a6
+
+MySQL connection checker Module is going to sleep for 180 min at 16052018-193726
+
+Mysql connection is alive: com.mysql.jdbc.JDBC4Connection@46c670a6
+
+MySQL connection checker Module is going to sleep for 180 min at 16052018-194027
+
+Query: select projectId,projectName,projectType,projectManager,startDate,pdtDeliveryDate,salesDeliveryDate,phaseClosingDate from sqaMemberControl where pdtDeliveryDate<'2018-05-16 00:00:00'  and projectId in(select distinct(projectId) from sqaAssignTaskMobile where status='Assigned') order by projectId
+
+Query1: select taggedProjectId,androidMembers,iosMembers,webMembers,erpMembers,salesMembers from sqaTaggedMembers where taggedProjectId in(select projectId from sqaMemberControl where pdtDeliveryDate<'2018-05-16 00:00:00'  and projectId in(select distinct(projectId) from sqaAssignTaskMobile where status='Assigned') order by projectId) order by taggedProjectId
+
+Mail has sent successfully for 6
+
+Mail has sent successfully for 6
+
+Mail has sent successfully for 6
+
+Mail has sent successfully for 6
+
+Mail has sent successfully for 6
+
+Mail has sent successfully for 6
+
+Mail has sent successfully for 6
+
+Mail has sent successfully for 6
+
+Mail has sent successfully for 6
+
+Mysql connection is alive: com.mysql.jdbc.JDBC4Connection@46c670a6
+
+MySQL connection checker Module is going to sleep for 180 min at 16052018-194327
+
+Mysql connection is alive: com.mysql.jdbc.JDBC4Connection@46c670a6
+
+MySQL connection checker Module is going to sleep for 180 min at 16052018-194627
+
+Query: select projectId,projectName,projectType,projectManager,startDate,pdtDeliveryDate,salesDeliveryDate,phaseClosingDate from sqaMemberControl where pdtDeliveryDate<'2018-05-16 00:00:00'  and projectId in(select distinct(projectId) from sqaAssignTaskMobile where status='Assigned') order by projectId
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@46c670a6
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@46c670a6
+
+LastWeekDay Value is updated with 2018-06-04
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@46c670a6
+
+Date Value is updated with 2018-06-04
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@46c670a6
+
+Date Value is updated with 2018-06-04
+
+Date Value is updated with 2018-06-04
+
+Date Value is updated with 2018-06-04
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@46c670a6
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@46c670a6
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@46c670a6
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@46c670a6
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@46c670a6
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@46c670a6
+
+Date Value is updated with 2018-06-04
+
+Date Value is updated with 2018-06-04
+
+Date Value is updated with 2018-06-04
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@46c670a6
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@46c670a6
+
+Date Value is updated with 2018-06-03
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@46c670a6
+
+Date Value is updated with 2018-06-04
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@46c670a6
+
+Date Value is updated with 2018-06-04
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@592e843a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@592e843a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@592e843a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@46c670a6
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@290b1b2e
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@290b1b2e
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@50687efb
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@50687efb
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@50687efb
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@142eef62
+
+Date Value is updated with 2018-08-02
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@142eef62
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@342726f1
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@142eef62
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@77134e08
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@342726f1
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@c808207
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@342726f1
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@142eef62
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@c808207
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@342726f1
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@342726f1
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@342726f1
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@142eef62
+
+Date Value is updated with 2018-08-02
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@142eef62
+
+Date Value is updated with 2018-08-02
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@142eef62
+
+Date Value is updated with 2018-08-02
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@142eef62
+
+Date Value is updated with 2018-08-02
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@142eef62
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@142eef62
+
+Date Value is updated with 2018-08-02
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@142eef62
+
+Date Value is updated with 2018-08-02
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@142eef62
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@142eef62
+
+Date Value is updated with 2018-08-01
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@142eef62
+
+Date Value is updated with 2018-08-02
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@142eef62
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@142eef62
+
+Date Value is updated with 2018-08-01
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@142eef62
+
+Date Value is updated with 2018-08-01
+
+Date Value is updated with 2018-08-02
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2187fff7
+
+ Own Database Connected!
+
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@3ec11999
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@3ec11999
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@3ec11999
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@3ec11999
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@3ec11999
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@3ec11999
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@3ec11999
+
+Date Value is updated with 2018-09-16
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@3ec11999
+
+Date Value is updated with 2018-09-16
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@3ec11999
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@9f46d94
+
+Mysql Connection is getting: null
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@56db847e
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@56db847e
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@56db847e
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@56db847e
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@56db847e
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@56db847e
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@56db847e
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@56db847e
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@56db847e
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@56db847e
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@56db847e
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@56db847e
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@56db847e
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@56db847e
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@56db847e
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@56db847e
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@56db847e
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@56db847e
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@56db847e
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@3971f0fe
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@560cbf1a
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Remote Database Connected!
+
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Remote Database Connected!
+
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Remote Database Connected!
+
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Remote Database Connected!
+
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Remote Database Connected!
+
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Remote Database Connected!
+
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@35178483
+
+ Remote Database Connected!
+
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Remote Database Connected!
+
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Remote Database Connected!
+
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Remote Database Connected!
+
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Remote Database Connected!
+
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Remote Database Connected!
+
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Remote Database Connected!
+
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Remote Database Connected!
+
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@35178483
+
+ Remote Database Connected!
+
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@64412d34
+
+ Remote Database Connected!
+
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Remote Database Connected!
+
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Remote Database Connected!
+
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Remote Database Connected!
+
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@2e77b8cf
+
+ Remote Database Connected!
+
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@132e0cc
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@132e0cc
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@132e0cc
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@132e0cc
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@132e0cc
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@132e0cc
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@460f76a6
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@132e0cc
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@132e0cc
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@132e0cc
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@132e0cc
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@132e0cc
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@132e0cc
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@132e0cc
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@132e0cc
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@460f76a6
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@460f76a6
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@460f76a6
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@132e0cc
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@132e0cc
+
+Date Value is updated with 
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@132e0cc
+
+Date Value is updated with 
+
+Date Value is updated with 
+
+Date Value is updated with 
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@5c2375a9
+
+Date Value is updated with 
+
+ Own Database Connected!
+
+
+Mysql Connection is getting: com.mysql.jdbc.JDBC4Connection@5c2375a9
+
+Date Value is updated with 

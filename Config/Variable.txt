@@ -1,0 +1,26 @@
+driverlog=G:/WorkStation/iTelTestAutomation;
+isWindows=1;
+sleepTime=1;
+MySQLIP=localhost;
+DBName=testautomation;
+dbusername=root;
+dbpassword=Ninety02#;
+FontFamily=Calibri;
+FontSize=18;
+ColorCode=#C5EFF7;
+mailhost=mail.revesoft.com;
+mailport=2525;
+mailFrom=sqa.noreply@revesoft.com;
+mailpassword=HDGYWE112!2RYF#;
+summarymailtime=09;
+weeklysummarymailtime=09;
+WeeklyMailDay=Sun;
+LastWeekDay=2018-09-16;
+LastDailyReportMailDay=2018-09-12;
+TestReport=1;
+AssignerArray=Sujan,Tarik,Palash,Musrat,Mizan;
+AssignerfullnameArray=Sujan Bhowmik,Tarik Adnan,Palash Ghosh,Musrat Nahar,Mizanur Rahman;
+mailToC=test@gmail.com;
+mailToB=mizanur@revesoft.com;
+Post=;
+qa@monzureelahi.com
